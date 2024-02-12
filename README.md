@@ -1,1 +1,1 @@
-# :computer: SpringMVC Section one - Thymeleaf
+# :computer: SpringMVC Section - Thymeleaf
